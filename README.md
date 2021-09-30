@@ -29,3 +29,10 @@
   - 공공기관, 지하철이나 5층 이상의 건물(화장실 필수)이 있는 장소를 알려줌 
 
 ## 5주차 과제
+- 첫 번째 이미지
+
+<img width="350" height="700" src="./png/5_App.JPG"></img>
+
+- 두 번째 이미지
+
+<img width="350" height="700" src="./png/5_App2.JPG"></img>
