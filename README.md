@@ -36,3 +36,16 @@
 - 두 번째 이미지
 
 <img width="350" height="700" src="./png/5_App2.JPG"></img>
+
+## 6주차 과제
+- 첫 번째 이미지
+
+<img width="350" height="700" src="./png/6_1.JPG"></img>
+
+- 두 번째 이미지
+
+<img width="350" height="700" src="./png/6_2.JPG"></img>
+
+- 세 번째 이미지
+
+<img width="350" height="700" src="./png/6_3.JPG"></img>
