@@ -49,3 +49,8 @@
 - 세 번째 이미지
 
 <img width="350" height="700" src="./png/6_3.JPG"></img>
+
+## 7주차 과제
+- 출석과제
+
+<img width="350" height="700" src="./png/7_App.JPG"></img>
