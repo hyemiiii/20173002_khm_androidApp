@@ -40,15 +40,15 @@
 ## 6주차 과제
 - 첫 번째 이미지
 
-<img width="350" height="700" src="./png/6_1.JPG"></img>
+<img width="350" height="700" src="./png/6_app.JPG"></img>
 
 - 두 번째 이미지
 
-<img width="350" height="700" src="./png/6_2.JPG"></img>
+<img width="350" height="700" src="./png/6_app2.JPG"></img>
 
 - 세 번째 이미지
 
-<img width="350" height="700" src="./png/6_3.JPG"></img>
+<img width="350" height="700" src="./png/6_app3.JPG"></img>
 
 ## 7주차 과제
 - 출석과제
